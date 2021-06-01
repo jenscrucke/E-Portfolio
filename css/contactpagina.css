@@ -1,0 +1,102 @@
+h1{
+    font-size: 70px;
+    font-family: 'Aclonica';
+    margin: 50px;
+    
+    
+    
+    
+    float: left;
+    margin-bottom: 0px;
+    margin-top:10px;
+    
+    margin-left:525px;
+    
+    
+    
+    
+    }
+    .jens{
+        height:145px;
+        width: auto;
+        margin-right:70px;
+        padding-right:70px;
+    }
+    header{
+        height: 250px;
+        border: 2px solid black;
+        padding-left: 200px;
+        
+    }
+    figure{
+        
+        width: 290px;
+        height: 220px;
+        margin-left: 660px;
+        padding: 1em 1em 0.3em;
+        
+    }
+    body {
+        background-image: url("../images/12.jpg");
+      
+       }
+    nav>a{
+        color:black;
+        margin-bottom: 5px;
+        border-radius: 50px;
+        margin: 20p;
+        padding: 2px;
+        padding-left: 30px;
+        text-decoration: none;
+        border: 1px solid gray;
+        display: block;
+        width: 200px;
+        
+       
+    }
+    nav{
+        padding-top: 60px;
+        float: left;
+    }
+
+    form{
+        text-align: center;
+
+    }
+    .former{
+        text-align: center;
+        
+       
+    }
+    textarea{
+        height: 70px;
+        width: 300px;
+        
+    }
+    input:first-of-type{
+       margin-right: 231px;
+    }
+    label{
+        display: block;
+        padding-top: 30px;
+        padding-bottom: 2px;
+    }
+    input[type ="submit"]{
+
+        margin-bottom:20px;
+        padding:15px;
+        width: 10%;
+        
+    }
+    table{
+        
+       width: 400px;
+       padding-left: 100px;
+    }
+    h2:first-of-type{
+
+       padding-left:300px;
+    }
+    label:first-of-type{
+        margin-right: 230px;
+    }

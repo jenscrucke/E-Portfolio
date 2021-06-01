@@ -1,0 +1,63 @@
+h1{
+    font-size: 200px;
+    font-family: 'Aclonica';
+  
+    
+    
+    
+    }
+    .jens{
+        height:145px;
+        
+    }
+    header{
+        height: 250px;
+        
+        margin: auto;
+        width: 20%;
+        
+        padding: 10px;
+    }
+    figure{
+        padding-left: 60px;
+        width: 290px;
+        height: 220px;
+        
+        
+    }
+    body{
+        padding: 40px;
+        border: 1px solid black;
+    }
+   
+h2{
+
+font-size: 50px;
+text-align: center;
+padding-right: 5%;
+}
+nav{
+    padding-right: 5%;
+   text-align: center;
+}
+h3{
+padding-left: 610px;
+}
+a{
+    border-spacing: 20px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 10px;
+    
+    color: rgba(44, 14, 107, 0.31)    
+}
+body {
+    background-image: url("../images/12.jpg");
+  
+   }
+   a:first-of-type{
+    margin-right: 50px;
+   }

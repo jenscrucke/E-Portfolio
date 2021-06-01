@@ -1,0 +1,101 @@
+h1{
+    font-size: 70px;
+    font-family: 'Aclonica';
+    margin: 50px;
+    
+    
+    
+    
+    float: left;
+    margin-bottom: 0px;
+    margin-top:10px;
+    
+    margin-left:525px;
+    
+    
+    
+    
+    }
+    .jens{
+        height:145px;
+        width: auto;
+        margin-right:70px;
+        padding-right:70px;
+    }
+    header{
+        height: 250px;
+        border: 2px solid black;
+        padding-left: 200px;
+        
+        
+    }
+    figure{
+        
+        width: 290px;
+        height: 220px;
+        margin-left: 660px;
+        padding: 1em 1em 0.3em;
+        
+    }
+    body{
+        background-color: white;
+    }
+    body {
+        background-image: url("../images/12.jpg");
+      
+       }
+    a{
+        color:black;
+        margin-bottom: 5px;
+        border-radius: 50px;
+        margin: 20p;
+        padding: 2px;
+        padding-left: 30px;
+        text-decoration: none;
+        border: 1px solid gray;
+        display: block;
+        width: 200px;
+        
+       
+    }
+    nav{
+        padding-top: 60px;
+        float: left;
+    }
+
+    p{
+        padding-left: 250px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        font-family: 'Roboto', sans-serif;
+    }
+    section{
+        border: 1px solid black;
+        padding-bottom: 50px;
+        margin-bottom: 500px;
+    }
+    h2{
+        padding-left: 230px;
+        margin-bottom: 50px;
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+        color: darkblue;
+    }
+    h3{
+
+        padding-left:230px;
+        font-size:20px;
+        color: darkblue;
+    }
+    h4{
+        padding-left: 250px;
+        font-size: 18px;
+    }
+    .lol{
+        color: red;
+    }
+
+
+    
+
+    
